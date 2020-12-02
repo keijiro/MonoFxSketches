@@ -76,7 +76,7 @@ Material:
     - _AlphaSrcBlend: 1
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
-    - _BPM: 128
+    - _BPM: 256
     - _BlendMode: 0
     - _CullMode: 2
     - _CullModeForward: 2

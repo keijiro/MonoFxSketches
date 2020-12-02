@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0.4166666666666667
+    m_Start: 0.4
     m_ClipIn: 0
     m_Asset: {fileID: 7794349543740931027}
     m_Duration: 0.08333333333333333
@@ -111,7 +111,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0.4166666666666667
+    m_PreExtrapolationTime: 0.4
     m_DisplayName: Recorded_1
   m_Markers:
     m_Objects: []
@@ -298,19 +298,19 @@ AnimationClip:
         time: 0.06666666
         value: 1.8021858
         inSlope: Infinity
-        outSlope: -1.8195903
+        outSlope: 0.11957847
         tangentMode: 7
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.12665407
+        outWeight: 0.08235296
       - serializedVersion: 3
-        time: 0.45
+        time: 0.5
         value: 0
-        inSlope: -8.777707
-        outSlope: -8.777707
+        inSlope: -10.978345
+        outSlope: -10.978345
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.05671076
+        inWeight: 0.044007692
         outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -340,7 +340,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.45
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -372,19 +372,19 @@ AnimationClip:
         time: 0.06666666
         value: 1.8021858
         inSlope: Infinity
-        outSlope: -1.8195903
+        outSlope: 0.11957847
         tangentMode: 7
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.12665407
+        outWeight: 0.08235296
       - serializedVersion: 3
-        time: 0.45
+        time: 0.5
         value: 0
-        inSlope: -8.777707
-        outSlope: -8.777707
+        inSlope: -10.978345
+        outSlope: -10.978345
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.05671076
+        inWeight: 0.044007692
         outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -481,10 +481,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0.4166666666666667
+    m_Start: 0.4
     m_ClipIn: 0
     m_Asset: {fileID: 8009494050212389932}
-    m_Duration: 0.45
+    m_Duration: 0.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4289009365974738307}
     m_EaseInDuration: 0
@@ -547,7 +547,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0.4166666666666667
+    m_PreExtrapolationTime: 0.4
     m_DisplayName: Recorded_2
   m_Markers:
     m_Objects: []
@@ -687,7 +687,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.06666667
+        time: 0.11666667
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -696,18 +696,18 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.25
+        time: 0.3
         value: 1
         inSlope: Infinity
-        outSlope: -10.000001
+        outSlope: -15.000001
         tangentMode: 71
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.35
+        time: 0.36666667
         value: 0
-        inSlope: -10.000001
+        inSlope: -15.000001
         outSlope: Infinity
         tangentMode: 101
         weightedMode: 0
@@ -741,7 +741,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.35
+    m_StopTime: 0.36666667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -770,7 +770,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.06666667
+        time: 0.11666667
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -779,18 +779,18 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.25
+        time: 0.3
         value: 1
         inSlope: Infinity
-        outSlope: -10.000001
+        outSlope: -15.000001
         tangentMode: 71
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.35
+        time: 0.36666667
         value: 0
-        inSlope: -10.000001
+        inSlope: -15.000001
         outSlope: Infinity
         tangentMode: 101
         weightedMode: 0
