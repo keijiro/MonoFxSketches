@@ -1,5 +1,3 @@
-//#include "Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl"
-
 void Letter_float(float2 uv, float seed, out float output)
 {
     uint2 pos = uv * 7;
