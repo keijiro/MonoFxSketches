@@ -105,7 +105,7 @@ Material:
     - _EmissiveIntensityUnit: 0
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 0
-    - _Frequency: 10
+    - _Frequency: 6
     - _IncludeIndirectLighting: 1
     - _OpaqueCullMode: 2
     - _RenderQueueType: 1
