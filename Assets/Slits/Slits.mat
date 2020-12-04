@@ -111,6 +111,7 @@ Material:
     - _RenderQueueType: 1
     - _Speed: 1.2
     - _SrcBlend: 1
+    - _Steepness: 1
     - _StencilRef: 0
     - _StencilRefDepth: 0
     - _StencilRefDistortionVec: 4
